@@ -5,11 +5,11 @@
 
 # --- Required options --- #
 
-# Name of website
-title: My Website
+# Brian's Blog (bbauska.github.io pointing to blog.bauska.site)
+title: Brian's Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Brian Bauska
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://bauska.site"
 
 # --- Logo --- #
 
@@ -39,22 +39,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
+  email: "bbauska@bauska.site"
+  facebook: brianbauska
+  github: bbauska
+  twitter: @BrianBauska
+#  patreon: BrianBauska
+  youtube: c/brianbauska
+  medium: brianbauska@gmail.com
+  reddit: brianbauska
+  linkedin: brianbauska
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+  snapchat: brianbauska2019
+#  instagram: brianbauska ??
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +15093060375
+#  steam: brianbauska
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -193,7 +193,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Los Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -233,6 +233,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Jekyll / Brian Bauska
 # 2fc73a3a967e97599c9763d05e564189
 
